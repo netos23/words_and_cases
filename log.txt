@@ -1,0 +1,120 @@
+2023-05-25 13:33:43.166 INF Info: Case table loaded
+2023-05-25 13:33:49.698 INF Info: File with words selected
+2023-05-25 13:33:53.460 INF Info: File saved
+2023-05-25 17:08:35.045 INF Info: Case table loaded
+2023-05-25 17:08:44.336 INF Info: File with words selected
+2023-05-25 17:09:46.386 INF Info: File with words selected
+2023-05-25 17:10:46.107 INF Info: Case table loaded
+2023-05-28 11:41:08.671 INF Info: "???? D:/C++/WordsAndCases/cases.txt ??????"
+2023-05-28 11:41:14.017 INF Info: "???? D:/C++/WordsAndCases/words.txt ??????"
+2023-05-28 11:41:18.129 WRN default: setGeometry: Unable to set geometry 640x480+851+456 on QWidgetWindow/'QInputDialogClassWindow'. Resulting geometry:  640x108+851+456 (frame: 9, 38, 9, 9, custom margin: 0, 0, 0, 0, minimum size: 219x108, maximum size: 524287x108).
+2023-05-28 11:42:44.685 INF Info: "???? D:/C++/WordsAndCases/cases.txt ??????"
+2023-05-28 11:42:50.526 INF Info: "???? D:/C++/WordsAndCases/words.txt ??????"
+2023-05-28 11:42:54.361 WRN default: setGeometry: Unable to set geometry 640x480+851+456 on QWidgetWindow/'QInputDialogClassWindow'. Resulting geometry:  640x108+851+456 (frame: 9, 38, 9, 9, custom margin: 0, 0, 0, 0, minimum size: 219x108, maximum size: 524287x108).
+2023-05-28 11:45:21.412 INF Info: "???? D:/C++/WordsAndCases/cases.txt ??????"
+2023-05-28 11:45:26.597 INF Info: "???? D:/C++/WordsAndCases/words.txt ??????"
+2023-05-28 11:45:30.048 WRN default: setGeometry: Unable to set geometry 640x480+851+456 on QWidgetWindow/'QInputDialogClassWindow'. Resulting geometry:  640x108+851+456 (frame: 9, 38, 9, 9, custom margin: 0, 0, 0, 0, minimum size: 219x108, maximum size: 524287x108).
+2023-05-28 11:47:31.235 INF Info: "???? D:/C++/WordsAndCases/cases.txt ??????"
+2023-05-28 11:47:36.634 INF Info: "???? D:/C++/WordsAndCases/words.txt ??????"
+2023-05-28 11:47:38.731 WRN default: setGeometry: Unable to set geometry 640x480+851+456 on QWidgetWindow/'QInputDialogClassWindow'. Resulting geometry:  640x108+851+456 (frame: 9, 38, 9, 9, custom margin: 0, 0, 0, 0, minimum size: 219x108, maximum size: 524287x108).
+2023-05-28 11:55:22.584 INF Info: "???? D:/C++/WordsAndCases/cases.txt ??????"
+2023-05-28 11:55:30.468 INF Info: "???? D:/C++/WordsAndCases/words.txt ??????"
+2023-05-28 11:55:32.263 WRN default: setGeometry: Unable to set geometry 640x480+851+456 on QWidgetWindow/'QInputDialogClassWindow'. Resulting geometry:  640x108+851+456 (frame: 9, 38, 9, 9, custom margin: 0, 0, 0, 0, minimum size: 219x108, maximum size: 524287x108).
+2023-05-28 11:58:02.554 INF Info: "???? D:/C++/WordsAndCases/cases.txt ??????"
+2023-05-28 11:58:09.539 INF Info: "???? D:/C++/WordsAndCases/words.txt ??????"
+2023-05-28 11:58:12.446 WRN default: setGeometry: Unable to set geometry 640x480+851+456 on QWidgetWindow/'QInputDialogClassWindow'. Resulting geometry:  640x108+851+456 (frame: 9, 38, 9, 9, custom margin: 0, 0, 0, 0, minimum size: 219x108, maximum size: 524287x108).
+2023-05-28 12:00:00.988 INF Info: ????????? ?????????, ????? ???????? ??????
+2023-05-28 12:00:50.282 INF Info: "???? D:/C++/WordsAndCases/cases.txt ??????"
+2023-05-28 12:00:58.722 INF Info: "???? D:/C++/WordsAndCases/words.txt ??????"
+2023-05-28 12:01:08.999 WRN default: setGeometry: Unable to set geometry 640x480+851+456 on QWidgetWindow/'QInputDialogClassWindow'. Resulting geometry:  640x108+851+456 (frame: 9, 38, 9, 9, custom margin: 0, 0, 0, 0, minimum size: 219x108, maximum size: 524287x108).
+2023-05-28 12:03:25.304 INF Info: "???? D:/C++/WordsAndCases/cases.txt ??????"
+2023-05-28 12:03:34.160 INF Info: "???? D:/C++/WordsAndCases/words.txt ??????"
+2023-05-28 12:04:07.565 WRN default: setGeometry: Unable to set geometry 640x480+851+456 on QWidgetWindow/'QInputDialogClassWindow'. Resulting geometry:  640x108+851+456 (frame: 9, 38, 9, 9, custom margin: 0, 0, 0, 0, minimum size: 219x108, maximum size: 524287x108).
+2023-05-28 12:06:08.796 INF Info: "???? D:/C++/WordsAndCases/cases.txt ??????"
+2023-05-28 12:06:15.476 INF Info: "???? D:/C++/WordsAndCases/words.txt ??????"
+2023-05-28 12:06:17.057 WRN default: setGeometry: Unable to set geometry 640x480+851+456 on QWidgetWindow/'QInputDialogClassWindow'. Resulting geometry:  640x108+851+456 (frame: 9, 38, 9, 9, custom margin: 0, 0, 0, 0, minimum size: 219x108, maximum size: 524287x108).
+2023-05-28 12:11:45.203 INF Info: "???? D:/C++/WordsAndCases/cases.txt ??????"
+2023-05-28 12:11:49.497 INF Info: "???? D:/C++/WordsAndCases/words.txt ??????"
+2023-05-28 12:11:51.883 WRN default: setGeometry: Unable to set geometry 640x480+851+456 on QWidgetWindow/'QInputDialogClassWindow'. Resulting geometry:  640x108+851+456 (frame: 9, 38, 9, 9, custom margin: 0, 0, 0, 0, minimum size: 219x108, maximum size: 524287x108).
+2023-05-28 12:15:26.210 INF Info: "???? D:/C++/WordsAndCases/cases.txt ??????"
+2023-05-28 12:15:31.443 INF Info: "???? D:/C++/WordsAndCases/words.txt ??????"
+2023-05-28 12:15:33.647 WRN default: setGeometry: Unable to set geometry 640x480+851+456 on QWidgetWindow/'QInputDialogClassWindow'. Resulting geometry:  640x108+851+456 (frame: 9, 38, 9, 9, custom margin: 0, 0, 0, 0, minimum size: 219x108, maximum size: 524287x108).
+2023-05-28 12:16:32.914 INF Info: ????????? ?????????, ????? ???????? ??????
+2023-05-28 12:37:26.067 INF Info: "???? D:/C++/WordsAndCases/cases.txt ??????"
+2023-05-28 12:37:32.795 INF Info: "???? D:/C++/WordsAndCases/words.txt ??????"
+2023-05-28 12:37:35.712 WRN default: setGeometry: Unable to set geometry 640x480+851+456 on QWidgetWindow/'QInputDialogClassWindow'. Resulting geometry:  640x108+851+456 (frame: 9, 38, 9, 9, custom margin: 0, 0, 0, 0, minimum size: 219x108, maximum size: 524287x108).
+2023-05-28 12:38:11.552 INF Info: ????????? ?????????, ????? ???????? ??????
+2023-05-28 12:38:23.216 WRN default: setGeometry: Unable to set geometry 640x480+851+456 on QWidgetWindow/'QInputDialogClassWindow'. Resulting geometry:  640x108+851+456 (frame: 9, 38, 9, 9, custom margin: 0, 0, 0, 0, minimum size: 219x108, maximum size: 524287x108).
+2023-05-28 12:39:09.142 INF Info: ????????? ?????????, ????? ???????? ??????
+2023-05-28 12:39:28.774 WRN default: setGeometry: Unable to set geometry 640x480+851+456 on QWidgetWindow/'QInputDialogClassWindow'. Resulting geometry:  640x108+851+456 (frame: 9, 38, 9, 9, custom margin: 0, 0, 0, 0, minimum size: 219x108, maximum size: 524287x108).
+2023-05-28 12:45:22.372 INF Info: "file D:/C++/WordsAndCases/cases.txt is saved"
+2023-05-28 12:45:27.522 INF Info: "file D:/C++/WordsAndCases/words.txt is saved"
+2023-05-28 12:45:29.390 WRN default: setGeometry: Unable to set geometry 640x480+851+456 on QWidgetWindow/'QInputDialogClassWindow'. Resulting geometry:  640x108+851+456 (frame: 9, 38, 9, 9, custom margin: 0, 0, 0, 0, minimum size: 219x108, maximum size: 524287x108).
+2023-05-28 12:50:52.132 INF Info: "file D:/C++/WordsAndCases/cases.txt is saved"
+2023-05-28 12:50:57.037 INF Info: "file D:/C++/WordsAndCases/words.txt is saved"
+2023-05-28 12:50:59.133 WRN default: setGeometry: Unable to set geometry 640x480+851+456 on QWidgetWindow/'QInputDialogClassWindow'. Resulting geometry:  640x108+851+456 (frame: 9, 38, 9, 9, custom margin: 0, 0, 0, 0, minimum size: 219x108, maximum size: 524287x108).
+2023-05-28 12:56:28.828 INF Info: "file D:/C++/WordsAndCases/cases.txt is saved"
+2023-05-28 12:56:34.393 INF Info: "file D:/C++/WordsAndCases/words.txt is saved"
+2023-05-28 12:56:35.978 WRN default: setGeometry: Unable to set geometry 640x480+851+456 on QWidgetWindow/'QInputDialogClassWindow'. Resulting geometry:  640x108+851+456 (frame: 9, 38, 9, 9, custom margin: 0, 0, 0, 0, minimum size: 219x108, maximum size: 524287x108).
+2023-05-28 12:57:05.234 INF Info: "finded cases for file words.txt"
+2023-05-28 12:58:02.670 INF Info: "file D:/C++/WordsAndCases/cases.txt is saved"
+2023-05-28 12:58:06.705 INF Info: "file D:/C++/WordsAndCases/words.txt is saved"
+2023-05-28 12:58:08.578 WRN default: setGeometry: Unable to set geometry 640x480+851+456 on QWidgetWindow/'QInputDialogClassWindow'. Resulting geometry:  640x108+851+456 (frame: 9, 38, 9, 9, custom margin: 0, 0, 0, 0, minimum size: 219x108, maximum size: 524287x108).
+2023-05-28 12:58:10.957 INF Info: "finded cases for file words.txt"
+2023-05-28 12:58:13.536 WRN default: setGeometry: Unable to set geometry 640x480+851+456 on QWidgetWindow/'QInputDialogClassWindow'. Resulting geometry:  640x108+851+456 (frame: 9, 38, 9, 9, custom margin: 0, 0, 0, 0, minimum size: 219x108, maximum size: 524287x108).
+2023-05-28 12:58:35.605 INF Info: "text saved to file wordsWithCases.txt"
+2023-05-28 13:00:15.365 INF Info: "file D:/C++/WordsAndCases/cases.txt is saved"
+2023-05-28 13:00:20.291 INF Info: "file D:/C++/WordsAndCases/words.txt is saved"
+2023-05-28 13:00:22.289 WRN default: setGeometry: Unable to set geometry 640x480+851+456 on QWidgetWindow/'QInputDialogClassWindow'. Resulting geometry:  640x108+851+456 (frame: 9, 38, 9, 9, custom margin: 0, 0, 0, 0, minimum size: 219x108, maximum size: 524287x108).
+2023-05-28 13:00:25.586 INF Info: "finded cases for file words.txt"
+2023-05-28 13:00:38.076 WRN default: setGeometry: Unable to set geometry 640x480+851+456 on QWidgetWindow/'QInputDialogClassWindow'. Resulting geometry:  640x108+851+456 (frame: 9, 38, 9, 9, custom margin: 0, 0, 0, 0, minimum size: 219x108, maximum size: 524287x108).
+2023-05-28 13:08:14.713 INF Info: "file D:/C++/WordsAndCases/cases.txt is saved"
+2023-05-28 13:08:18.912 INF Info: "file D:/C++/WordsAndCases/words.txt is saved"
+2023-05-28 13:08:25.035 WRN default: setGeometry: Unable to set geometry 640x480+851+456 on QWidgetWindow/'QInputDialogClassWindow'. Resulting geometry:  640x108+851+456 (frame: 9, 38, 9, 9, custom margin: 0, 0, 0, 0, minimum size: 219x108, maximum size: 524287x108).
+2023-05-28 13:08:27.218 INF Info: "finded cases for file words.txt"
+2023-05-28 13:08:29.226 WRN default: setGeometry: Unable to set geometry 640x480+851+456 on QWidgetWindow/'QInputDialogClassWindow'. Resulting geometry:  640x108+851+456 (frame: 9, 38, 9, 9, custom margin: 0, 0, 0, 0, minimum size: 219x108, maximum size: 524287x108).
+2023-05-28 13:08:34.297 INF Info: "text saved to file wordsCases.txt"
+2023-05-28 13:13:13.720 WRN default: setGeometry: Unable to set geometry 640x480+851+456 on QWidgetWindow/'QInputDialogClassWindow'. Resulting geometry:  640x108+851+456 (frame: 9, 38, 9, 9, custom margin: 0, 0, 0, 0, minimum size: 219x108, maximum size: 524287x108).
+2023-05-28 13:13:19.241 INF Info: "text saved to file wordscase.txt"
+2023-05-28 13:14:36.528 INF Info: "file D:/C++/WordsAndCases/build-WordsAndCases-Desktop_Qt_5_12_2_MinGW_32_bit-Debug/wordscase.txt is saved"
+2023-05-28 13:14:54.841 INF Info: "file D:/C++/WordsAndCases/build-WordsAndCases-Desktop_Qt_5_12_2_MinGW_32_bit-Debug/wordsCases.txt is saved"
+2023-05-28 13:15:00.150 INF Info: "file D:/C++/WordsAndCases/build-WordsAndCases-Desktop_Qt_5_12_2_MinGW_32_bit-Debug/wordsWithCases.txt is saved"
+2023-05-28 13:16:04.522 INF Info: "file D:/C++/WordsAndCases/cases.txt is saved"
+2023-05-28 13:16:09.103 INF Info: "file D:/C++/WordsAndCases/words.txt is saved"
+2023-05-28 13:16:13.409 WRN default: setGeometry: Unable to set geometry 640x480+851+456 on QWidgetWindow/'QInputDialogClassWindow'. Resulting geometry:  640x108+851+456 (frame: 9, 38, 9, 9, custom margin: 0, 0, 0, 0, minimum size: 219x108, maximum size: 524287x108).
+2023-05-28 13:16:18.350 INF Info: "finded cases for file words.txt"
+2023-05-28 13:16:22.551 WRN default: setGeometry: Unable to set geometry 640x480+851+456 on QWidgetWindow/'QInputDialogClassWindow'. Resulting geometry:  640x108+851+456 (frame: 9, 38, 9, 9, custom margin: 0, 0, 0, 0, minimum size: 219x108, maximum size: 524287x108).
+2023-05-28 13:16:34.252 INF Info: "text saved to file wordsCase.txt"
+2023-05-28 13:16:42.692 INF Info: "file D:/C++/WordsAndCases/build-WordsAndCases-Desktop_Qt_5_12_2_MinGW_32_bit-Debug/wordsCase.txt is saved"
+2023-05-29 16:54:23.356 INF Info: "file D:/C++/WordsAndCases/cases.txt is saved"
+2023-05-29 16:54:26.364 INF Info: "file D:/C++/WordsAndCases/words.txt is saved"
+2023-05-29 16:54:31.154 WRN default: setGeometry: Unable to set geometry 640x480+851+456 on QWidgetWindow/'QInputDialogClassWindow'. Resulting geometry:  640x108+851+456 (frame: 9, 38, 9, 9, custom margin: 0, 0, 0, 0, minimum size: 219x108, maximum size: 524287x108).
+2023-05-29 16:54:34.916 INF Info: "finded cases for file words.txt"
+2023-05-29 16:54:38.607 WRN default: setGeometry: Unable to set geometry 640x480+851+456 on QWidgetWindow/'QInputDialogClassWindow'. Resulting geometry:  640x108+851+456 (frame: 9, 38, 9, 9, custom margin: 0, 0, 0, 0, minimum size: 219x108, maximum size: 524287x108).
+2023-05-29 16:54:48.459 INF Info: "text saved to file wordsCases.txt"
+2023-05-29 16:55:32.509 INF Info: "file D:/C++/WordsAndCases/build-WordsAndCases-Desktop_Qt_5_12_2_MinGW_32_bit-Debug/wordsCases.txt is saved"
+2023-05-31 20:16:30.635 INF Info: "file D:/C++/WordsAndCases/build-WordsAndCases-Desktop_Qt_5_12_2_MinGW_32_bit-Debug/wordsCases.txt is saved"
+2023-05-31 20:16:48.626 INF Info: "file D:/C++/WordsAndCases/cases.txt is saved"
+2023-05-31 20:16:58.082 INF Info: "file D:/C++/WordsAndCases/words.txt is saved"
+2023-05-31 20:17:00.840 WRN default: setGeometry: Unable to set geometry 640x480+851+456 on QWidgetWindow/'QInputDialogClassWindow'. Resulting geometry:  640x108+851+456 (frame: 9, 38, 9, 9, custom margin: 0, 0, 0, 0, minimum size: 219x108, maximum size: 524287x108).
+2023-05-31 20:17:05.453 INF Info: "finded cases for file words.txt"
+2023-05-31 20:17:10.502 WRN default: setGeometry: Unable to set geometry 640x480+851+456 on QWidgetWindow/'QInputDialogClassWindow'. Resulting geometry:  640x108+851+456 (frame: 9, 38, 9, 9, custom margin: 0, 0, 0, 0, minimum size: 219x108, maximum size: 524287x108).
+2023-05-31 20:17:17.579 INF Info: "text saved to file final file.txt"
+2023-05-31 20:17:36.855 INF Info: "file D:/C++/WordsAndCases/build-WordsAndCases-Desktop_Qt_5_12_2_MinGW_32_bit-Debug/final file.txt is saved"
+2023-05-31 22:47:50.320 INF Info: "file D:/WordsAndCases/cases.txt is saved"
+2023-05-31 22:47:54.704 INF Info: "file D:/WordsAndCases/words.txt is saved"
+2023-05-31 22:47:57.313 WRN default: setGeometry: Unable to set geometry 640x480+851+456 on QWidgetWindow/'QInputDialogClassWindow'. Resulting geometry:  640x108+851+456 (frame: 9, 38, 9, 9, custom margin: 0, 0, 0, 0, minimum size: 219x108, maximum size: 524287x108).
+2023-05-31 22:48:01.083 INF Info: "finded cases for file words.txt"
+2023-05-31 22:48:05.646 WRN default: setGeometry: Unable to set geometry 640x480+851+456 on QWidgetWindow/'QInputDialogClassWindow'. Resulting geometry:  640x108+851+456 (frame: 9, 38, 9, 9, custom margin: 0, 0, 0, 0, minimum size: 219x108, maximum size: 524287x108).
+2023-05-31 22:48:07.728 INF Info: "text saved to file jnjnj.txt"
+2023-05-31 22:49:01.029 WRN default: setGeometry: Unable to set geometry 640x480+851+456 on QWidgetWindow/'QInputDialogClassWindow'. Resulting geometry:  640x108+851+456 (frame: 9, 38, 9, 9, custom margin: 0, 0, 0, 0, minimum size: 219x108, maximum size: 524287x108).
+2023-05-31 22:49:55.343 INF Info: "text saved to file wordsCases.txt"
+2023-05-31 22:50:08.854 INF Info: "file D:/WordsAndCases/build-WordsAndCases-Desktop_Qt_5_12_2_MinGW_32_bit-Debug/wordsCases.txt is saved"
+2023-05-31 22:50:19.197 WRN default: setGeometry: Unable to set geometry 640x480+851+456 on QWidgetWindow/'QInputDialogClassWindow'. Resulting geometry:  640x108+851+456 (frame: 9, 38, 9, 9, custom margin: 0, 0, 0, 0, minimum size: 219x108, maximum size: 524287x108).
+2023-05-31 22:50:22.928 INF Info: "text saved to file jnjnjnjn.txt"
+2023-05-31 22:52:09.017 INF Info: "file D:/WordsAndCases/cases.txt is saved"
+2023-05-31 22:52:14.209 INF Info: "file D:/WordsAndCases/words.txt is saved"
+2023-05-31 22:52:17.039 WRN default: setGeometry: Unable to set geometry 640x480+851+456 on QWidgetWindow/'QInputDialogClassWindow'. Resulting geometry:  640x108+851+456 (frame: 9, 38, 9, 9, custom margin: 0, 0, 0, 0, minimum size: 219x108, maximum size: 524287x108).
+2023-05-31 22:52:20.297 INF Info: "finded cases for file words.txt"
+2023-05-31 22:52:29.773 WRN default: setGeometry: Unable to set geometry 640x480+851+456 on QWidgetWindow/'QInputDialogClassWindow'. Resulting geometry:  640x108+851+456 (frame: 9, 38, 9, 9, custom margin: 0, 0, 0, 0, minimum size: 219x108, maximum size: 524287x108).
+2023-05-31 22:52:31.330 INF Info: "text saved to file test.txt"
